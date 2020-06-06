@@ -4,7 +4,8 @@
 
 Se ha creado una aplicación con redis para guardar los datos y usarlos como caché.
 
-es necesario instalar las dependencias con el siguiente comando:
+Es necesario instalar las dependencias con el siguiente comando:
+
 ```
 npm install
 ```
